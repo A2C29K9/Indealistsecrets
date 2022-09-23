@@ -101,51 +101,51 @@ body { font-family: "Titillium", Arial, sans-serif; }
 
 @font-face {
 	font-family: 'Titillium';
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-light-webfont.eot');
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-light-webfont.svg#titillium-light-webfont') format('svg'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-light-webfont.eot#iefix') format('embedded-opentype'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-light-webfont.woff') format('woff'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-light-webfont.ttf') format('truetype');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-light-webfont.eot');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-light-webfont.svg#titillium-light-webfont') format('svg'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-light-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-light-webfont.woff') format('woff'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-light-webfont.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Titillium';
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.eot');
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.svg#titillium-lightitalic-webfont') format('svg'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.eot#iefix') format('embedded-opentype'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.woff') format('woff'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.ttf') format('truetype');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.eot');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.svg#titillium-lightitalic-webfont') format('svg'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.woff') format('woff'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-lightitalic-webfont.ttf') format('truetype');
 	font-weight: 300;
 	font-style: italic;
 }
 @font-face {
 	font-family: 'Titillium';
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.eot');
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.svg#titillium-regular-webfont') format('svg'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.eot#iefix') format('embedded-opentype'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.woff') format('woff'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.ttf') format('truetype');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.eot');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.svg#titillium-regular-webfont') format('svg'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.woff') format('woff'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regular-webfont.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Titillium';
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.eot');
-	src: url('/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.svg#titillium-regular-webfont') format('svg'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.eot#iefix') format('embedded-opentype'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.woff') format('woff'),
-		 url('/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.ttf') format('truetype');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.eot');
+	src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.svg#titillium-regular-webfont') format('svg'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.woff') format('woff'),
+		 url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-regularitalic-webfont.ttf') format('truetype');
 	font-weight: 400;
 	font-style: italic;
 }
 @font-face {
     font-family: 'Titillium';
-    src: url('/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.eot');
-    src: url('/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.svg#titillium-semibold-webfont') format('svg'),
-         url('/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.eot#iefix') format('embedded-opentype'),
-         url('/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.woff') format('woff'),
-         url('/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.ttf') format('truetype');
+    src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.eot');
+    src: url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.svg#titillium-semibold-webfont') format('svg'),
+         url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.eot#iefix') format('embedded-opentype'),
+         url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.woff') format('woff'),
+         url('https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/fonts/titillium-semibold-webfont.ttf') format('truetype');
 	font-weight: 600;
 	font-style: normal;
 }
@@ -1458,7 +1458,7 @@ li #reply-title { font-size: 0; margin: 0!important; padding: 0; height: 0; bord
 /* ------------------------------------------------------------------------- *
  *  Slick Carousel Theme
 /* ------------------------------------------------------------------------- */
-.slick-loading .slick-list { background: #fff url(/wp-content/themes/dashscroll/img/ajax-loader.gif) center center no-repeat;  }
+.slick-loading .slick-list { background: #fff url(https://cypress0522.github.io/Indealistsecrets/wp-content/themes/dashscroll/img/ajax-loader.gif) center center no-repeat;  }
 .slick-prev,.slick-next { font-size: 0; line-height: 0; position: absolute; top: 50%; display: block; width: 20px; height: 20px; padding: 0; -webkit-transform: translate(0, -50%); -ms-transform: translate(0, -50%); transform: translate(0, -50%); cursor: pointer; color: transparent; border: none; outline: none; background: transparent;  }
 .slick-prev:hover,.slick-prev:focus,.slick-next:hover,.slick-next:focus { color: transparent; outline: none; background: transparent;  }
 .slick-prev:hover:before,.slick-prev:focus:before,.slick-next:hover:before,.slick-next:focus:before { opacity: 1;  }

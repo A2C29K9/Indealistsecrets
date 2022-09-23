@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-				<a href="https://cypress0522.github.io/Indealistsecrets/%e6%b3%a8%e5%86%8c/">注册</a> | 				<a href="https://cypress0522.github.io/Indealistsecrets/wp-login.php?action=lostpassword">忘记密码？</a>
+								<a href="https://cypress0522.github.io/Indealistsecrets/wp-login.php?action=lostpassword">忘记密码？</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -107,7 +107,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://cypress0522.github.io/Indealistsecrets/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"9cba90a4b5"};
+var userProfileL10n = {"user_id":"0","nonce":"f3ba78bf75"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Hsiang_Nianian &#8211; Indealistsecrets</title>
-	<atom:link href="/author/hsiang_nianian/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
-	<description>Secrets for sb. or sth.</description>
-	<lastBuildDate>Thu, 22 Sep 2022 09:16:16 +0000</lastBuildDate>
+	<atom:link href="https://cypress0522.github.io/Indealistsecrets/author/hsiang_nianian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cypress0522.github.io/Indealistsecrets</link>
+	<description>今天分享秘密了吗...?</description>
+	<lastBuildDate>Fri, 23 Sep 2022 15:38:18 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>世界，您好！</title>
-		<link>/2022/09/22/hello-world/</link>
-					<comments>/2022/09/22/hello-world/#comments</comments>
+		<link>https://cypress0522.github.io/Indealistsecrets/2022/09/23/hello-world/</link>
+					<comments>https://cypress0522.github.io/Indealistsecrets/2022/09/23/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[Hsiang_Nianian]]></dc:creator>
-		<pubDate>Thu, 22 Sep 2022 09:16:16 +0000</pubDate>
+		<pubDate>Fri, 23 Sep 2022 15:38:18 +0000</pubDate>
 				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://cypress0522.github.io/Indealistsecrets/?p=1</guid>
 
 					<description><![CDATA[欢迎使用WordPress。这是&#46;&#46;&#46;]]></description>
 										<content:encoded><![CDATA[
 <p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/09/22/hello-world/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
+					<wfw:commentRss>https://cypress0522.github.io/Indealistsecrets/2022/09/23/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
